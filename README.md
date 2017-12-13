@@ -1,5 +1,5 @@
 # combination-cli
-Generate combinations    
+Generate combinations:    
     
 Configuration options    
 1. baseURL    
